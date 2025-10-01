@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorTextos">#110909</color>
+    <color name="colorBotones">#FFFFFF</color>
+    <color name="progressbar">#00E9F1</color>
+    <color name="FondoListView">#E6E6E6</color>
+    <color name="SeleccionItem">#1DFF02</color>
+    <color name="colorSeleccionado">#FFC107</color>  <!-- Amarillo -->
+    <color name="colorNormal">#FFFFFF</color>       <!-- Blanco -->
+    <color name="selected_item_color">#47FF17</color>
+    <color name="default_item_color">#A1A1A1</color>
+    <color name="NaturalItem">#868786</color>
+    <color name="FondoBlanco">#FFFFFF</color>
+
+</resources>

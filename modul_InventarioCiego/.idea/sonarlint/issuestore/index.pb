@@ -1,0 +1,23 @@
+
+s
+Capp/src/main/java/com/example/modul_inventariociego/MainActivity.kt,e\6\e6ae98f0943b7a7a503eaff9cbecc5024753d8e5
+ƒ
+Sapp/src/main/java/com/example/modul_inventariociego/Models/AdminSQLiteOpenHelper.kt,5\1\513e5eb1358eb92d77ed457cc47371758e06a756
+ƒ
+Sapp/src/main/java/com/example/modul_inventariociego/Models/RegistroInventarioMix.kt,d\2\d21c0b1edbd4125948caf57660d53152d8d99439
+D
+app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
+@
+build.gradle.kts,d\b\dbcff70658daf80b53ce624f6adcaa529df5ed8d
+I
+gradle/libs.versions.toml,d\7\d7595319a0658be6f1ed500ad590d42e4b28bc4f
+z
+Japp/src/main/java/com/example/modul_inventariociego/Models/ProductoInfo.kt,0\f\0f0b16466ad8f59db84569adde973dabafb26fcb
+C
+settings.gradle.kts,7\4\749edfcc96398253e5b3416184e95c46621da850
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+A
+gradle.properties,2\a\2afbb999f001938c88fa43fc2ef52abf0f8213e4
+X
+(gradle/wrapper/gradle-wrapper.properties,f\b\fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
